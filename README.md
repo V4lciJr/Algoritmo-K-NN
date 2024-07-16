@@ -1,2 +1,4 @@
 # Algoritmo-K-NN
 Este é um exemplo de como podemos utilizar o algoritmo K-NN (K — Nearest Neighbors) que é um dos muitos algoritmos usado no campo de data mining e marchine learning. Como database usaremos a base load_iris que é uma das mais utilizadas, para demonstrar este exemplo.
+O conjunto de dados Íris é um dos conjuntos de dados mais populares em ciência de dados e aprendizado de máquina. Ele contém informações sobre 150 flores de íris, divididas em três espécies diferentes: Iris setosa, Iris versicolor e Iris virginica. Cada flor tem quatro características medidas em centímetros: comprimento da sépala, largura da sépala, comprimento da pétala e largura da pétala.
+Este conjunto de dados é frequentemente usado como um exemplo para demonstrar técnicas de análise de dados e classificação.
